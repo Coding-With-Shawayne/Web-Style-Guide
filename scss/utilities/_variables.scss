@@ -17,6 +17,38 @@ $info-btn-color: #927bc1;
 
 $color-text: #58e1c1;
 
-// Stack Font Variable
+// Font Stacks
 
-//$stack-font-sans: ;
+$stack-lato: lato, sans-serif;
+
+// Column Color  Variable
+
+$col-1-color: #927bc1;
+$col-2-color: #fd7856;
+$col-3-color: #deb2ee;
+$col-4-color: #7ee6fd;
+$col-5-color: #88d9a0;
+$col-6-color: #4da2bb;
+$col-7-color: #ec9fa3;
+$col-8-color: #fd9f85;
+$col-9-color: #e4757a;
+$col-10-color: #63cc82;
+$col-11-color: #51ddfc;
+$col-12-color: #80e8d1;
+
+// Media Query Breakpoints
+$min-media-br: '(min-width: 768px)';
+$max-media-width: 1400px;
+
+$col-1-flex: 8.33%;
+$col-2-flex: 16.67%;
+$col-3-flex: 25.00%;
+$col-4-flex: 33.33%;
+$col-5-flex: 41.67%;
+$col-6-flex: 50.00%;
+$col-7-flex: 58.33%;
+$col-8-flex: 66.67%;
+$col-9-flex: 75.00%;
+$col-10-flex: 83.33%;
+$col-11-flex: 91.67%;
+$col-12-flex: 100%;
